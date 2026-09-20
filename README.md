@@ -1,24 +1,55 @@
-Hi there, I'm Shiva Shankar 👋
+# 👋 Hi, I'm Shiva Shankar
 
-🎯 Who I Am:
-I'm a Data Scientist with a strong foundation in statistics and a passion for solving real-world problems through data-driven solutions.
+### Data Scientist | Demand Forecasting | Machine Learning
 
-🔥 What I'm Passionate About:
-I love exploring data through Exploratory Data Analysis (EDA), building predictive models with Machine Learning and Deep Learning, and extracting valuable insights from unstructured data using Natural Language Processing (NLP).
+I’m a Data Scientist focused on **Demand Forecasting, Time Series, Machine Learning, and Supply Chain Analytics**.
 
-🛠️ Skills:
+I enjoy solving real-world problems using **data, statistical methods, machine learning, and scalable data processing**.
 
-Programming: Python (Pandas, NumPy, Scikit-learn), SQL
+## 🔥 Core Skills
 
-Data Analysis & Visualization: Pandas, Matplotlib, Seaborn
+**📈 Demand Forecasting**
 
-Machine Learning: Supervised and Unsupervised Learning, Model Optimization
+* Time Series Forecasting
+* Statistical Forecasting
+* ML-based Forecasting
+* Forecast Accuracy & Bias
+* Feature Engineering
+* Trend & Seasonality Analysis
 
-Deep Learning: Neural Networks, CNNs, RNNs
+**🤖 Machine Learning**
 
-NLP: Text classification, Sentiment analysis, Word Embeddings
+* Regression & Classification
+* XGBoost
+* Random Forest
+* Scikit-learn
+* Model Evaluation & Optimization
 
-Tools: Git, GitHub, Jupyter Notebook, Streamlit
+**⚙️ Data & Engineering**
+
+* Python
+* SQL
+* PySpark
+* Databricks
+* Azure Data Factory
+* Git & GitHub
+
+**📊 Analytics**
+
+* EDA
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+
+## 🚀 Currently Exploring
+
+* Advanced Demand Forecasting
+* Time Series & ML
+* PySpark & Data Engineering
+* MLOps
+* Generative AI & LLMs
 
 📫 How to Reach Me:
  [LinkedIn](https://www.linkedin.com/in/kammarishivashankar/)
